@@ -6,7 +6,7 @@ Small application that allows to upload images to S3 bucket.
 ![S3-upload-diagram](https://github.com/filipflorek/s3-file-upload/assets/52381251/3681dd4f-e158-4bed-b43a-0446435f7a5a)
 
 ## Application Setup
-To install the application, run the following: 
+To install the application, run the following: `npm install`
 To run the application run the following: `npm run dev`
 `.env` file needs to be created in the project root folder. The following variables have to be added:
 * `VITE_API_ENDPOINT=your-api-gateway-endpoint`
